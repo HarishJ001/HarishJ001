@@ -1,120 +1,111 @@
 <!-- Futuristic GitHub Profile for Harish J -->
 <h1 align="center">🚀 Hi, I'm <span style="color:#00ADB5;">Harish J</span> 👋</h1>
 
-<h3 align="center">💻 Aspiring Full-Stack Developer | Web & Java Enthusiast | Continuous Learner</h3>
+<h3 align="center">💻 Full-Stack Developer in Progress | Java • Web • Innovation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=800&color=00ADB5&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Portfolio!;Web+Developer+%7C+Java+Programmer+%7C+Tech+Learner;Building+Futuristic+Projects+One+Commit+at+a+Time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=800&color=00ADB5&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Portfolio!;Crafting+Code+that+Connects+Ideas+and+Innovation;Exploring+the+Future+of+Web+and+AI." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧭 Career Objective
-> Dedicated and adaptable professional, open to opportunities in IT across diverse domains.  
-> Committed to solving real-world challenges through code, creativity, and teamwork — while continuously learning and evolving.
+### 👨‍💻 About Me
+I’m **Harish J**, a Computer Science undergraduate driven by curiosity and creativity.  
+My focus lies in **building seamless digital experiences** — blending clean design, efficient code, and forward-thinking ideas.  
+I enjoy translating complex problems into simple, scalable, and smart solutions.
+
+- 🌍 Based in **Tiruppur, Tamil Nadu, India**  
+- 🔭 Currently enhancing my skills in **Java Full-Stack Development**  
+- ⚙️ Exploring **AI-powered Web Apps**, **Spring Boot**, and **Next-Gen UI**  
+- 🎯 Goal: Build intelligent systems that empower users and simplify life  
+- 💬 Ask me about **Java, Web Development, or Project Architecture**  
+- ✉️ Reach me at: [vsbharish001@gmail.com](mailto:vsbharish001@gmail.com)
 
 ---
 
-### 🎓 Education
+### 🧠 Tech Stack
 
-| Course | Institution | Year | Result |
-|:-------|:-------------|:------|:---------|
-| **B.E Computer Science & Engineering** | V.S.B Engineering College, Karur | 2022–Present | 7.59 CGPA |
-| **HSC** | Srinivasa Public School, Tiruppur | 2021–2022 | 65.8% |
-| **SSLC** | Srinivasa Public School, Tiruppur | 2019–2020 | 65.4% |
-
----
-
-### 💼 Internship
-**HostSpacio** – *Web Development Intern (Pollachi, Tamil Nadu)*  
-🗓️ *June 2024 – July 2024*  
-- Developed **The Elastic Web**, an e-commerce prototype with responsive and scalable front-end architecture using HTML & CSS.  
-- Gained hands-on experience in **leadership**, **creativity**, and **team collaboration**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-### 🚀 Featured Projects
+### 🧩 Highlight Projects
 
 #### 🍔 QuickBite – Food Ordering System
-A full-stack food ordering application using **Java**, **Spring Boot**, **HTML**, **CSS**, and **MySQL**.  
-Built with Agile methodology to provide a seamless experience for users and restaurant admins.  
-🧩 *Tech:* Java | Thymeleaf | MySQL | HTML | CSS  
-🔗 [View Repository](https://github.com/HarishJ001)
+A complete food-ordering platform powered by **Java + Spring Boot**, integrating a dynamic UI and MySQL backend.  
+**Key Points:** Responsive design, REST APIs, secure data handling, smooth user flow.  
+🛠 *Tech:* Java • Spring Boot • Thymeleaf • MySQL • HTML • CSS  
+🔗 [View Project](https://github.com/HarishJ001)
 
 ---
 
 #### 🛍️ The Elastic Web
-A conceptual e-commerce front-end prototype demonstrating modern, modular web design with scalability in mind.  
-🧩 *Tech:* HTML | CSS  
-🎯 *Focus:* UI responsiveness, design scalability, and accessibility.
+A conceptual e-commerce prototype demonstrating responsive layouts and modular structure.  
+**Focus:** Adaptive design principles and scalability for real-world retail systems.  
+🛠 *Tech:* HTML • CSS  
 
 ---
 
 #### 🏓 Ping Pong Game
-A browser-based 2D Pong-style game simulating a table tennis match using HTML, CSS, and JavaScript.  
-🧩 *Tech:* HTML | CSS | JavaScript  
-⚙️ *Concept:* Game physics, event handling, and DOM animations.
+A fun 2D browser game created using **HTML, CSS, and JavaScript**, simulating real-time paddle interactions and collision mechanics.  
+🛠 *Tech:* HTML • CSS • JavaScript  
 
 ---
 
-### 🧠 Technical Skills
+### 🎓 Education & Certifications
 
-| Category | Skills |
-|:---------|:--------|
-| **Programming Languages** | Java |
-| **Frontend Development** | HTML, CSS |
-| **Database** | SQL |
-| **Area of Interest** | Java & Web Development |
+**🎓 B.E – Computer Science & Engineering**  
+*V.S.B Engineering College, Karur (2022–Present)*  
 
----
-
-### 🏅 Certifications
-
-🎓 **Oracle** — Java  
-🎓 **Infosys Springboard** — Java Programming Foundation  
-🎓 **Infosys Springboard** — HTML & CSS  
+**📜 Certifications**  
+- Oracle – Java Programming  
+- Infosys Springboard – Java Programming Foundation  
+- Infosys Springboard – HTML & CSS  
 
 ---
 
-### 💡 Soft Skills
-💬 Leadership • 🤝 Teamwork • ⏳ Time Management • ⚡ Quick Learner  
+### 🌱 Currently Exploring
+- 🤖 AI-driven Web Development  
+- ⚡ Cloud Deployment (AWS & Render)  
+- 🧩 React 19 + GSAP Animations  
+- 🔐 Data Security for Web Systems  
 
 ---
 
-### 🌱 Currently Exploring (2025 Tech Stack)
-- 🧠 AI-Driven Web Development  
-- ☁️ Cloud-Native Java (Spring Boot + AWS)  
-- ⚡ Interactive UI with React 19 & GSAP  
-- 🧩 RESTful Microservices & Scalable Architectures  
+### 💡 My Development Philosophy
+> *“Code is where logic meets imagination.  
+>  I don’t just build software — I design digital experiences.”*
 
 ---
 
-### 📈 GitHub Stats & Streak
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarishJ001&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=HarishJ001&theme=tokyonight" alt="GitHub streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarishJ001&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=HarishJ001&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-### 🌍 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:vsbharish001@gmail.com"><img src="https://img.shields.io/badge/Email-vsbharish001%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/harish-j-b36174280"><img src="https://img.shields.io/badge/LinkedIn-Harish%20J-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/HarishJ001"><img src="https://img.shields.io/badge/GitHub-HarishJ001-black?style=for-the-badge&logo=github"></a>
-  <a href="https://leetcode.com/vsbharish001"><img src="https://img.shields.io/badge/LeetCode-vsbharish001-orange?style=for-the-badge&logo=leetcode"></a>
+  <a href="mailto:vsbharish001@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/harish-j-b36174280"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/HarishJ001"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://leetcode.com/vsbharish001"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
 
 ---
 
-### 🧩 Fun Quote
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> — *Cory House*
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00adb5,100:222831&section=footer&text=Thanks+for+visiting,+Chief!&fontColor=ffffff&fontAlignY=35" alt="footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00adb5,100:222831&section=footer&text=Thanks+for+visiting,+Chief!&fontColor=ffffff&fontAlignY=35"/>
 </p>
