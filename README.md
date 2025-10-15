@@ -138,13 +138,6 @@
 ### 🏆 **GitHub Trophies**
 <img src="https://github-profile-trophy.vercel.app/?username=HarishJ001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 
-### 📜 **Certifications**
-| **Certification** | **Provider** | **Status** |
-|:-------------------|:-------------|:-----------|
-| ☕ **Java Programming** | Oracle | ✅ **Certified** |
-| 🚀 **Java Programming Foundation** | Infosys Springboard | ✅ **Certified** |
-| 🌐 **HTML & CSS** | Infosys Springboard | ✅ **Certified** |
-| 💼 **Web Development Internship** | HostSpacio | ✅ **Completed** |
 
 </div>
 
@@ -155,19 +148,7 @@
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> **Professional Experience**
 
-<div align="center">
 
-### 💼 **Web Development Intern | HostSpacio**
-**📍 Pollachi, Tamil Nadu | 📅 June 2024 - July 2024**
-
-**🎯 Key Achievements:**  
-- ✅ Completed comprehensive web development training program  
-- ✅ Gained hands-on experience in **leadership**, **creativity**, and **teamwork**  
-- ✅ Developed **"The Elastic Web"** - A conceptual e-commerce prototype  
-- ✅ **Technologies Used:** HTML, CSS, Responsive Design, Scalable Architecture  
-- ✅ **Focus Areas:** Modern web design principles and user experience  
-
-</div>
 
 <br>
 
@@ -176,19 +157,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **2025 Roadmap & Goals**
 
-<div align="center">
 
-### **🎯 2025 Objectives**
-- ✅ **Master React.js** and build 3+ full-stack applications
-- ✅ **Contribute to 5+ Open Source projects**
-- ✅ **Achieve 1000+ LeetCode problems**
-- ✅ **Earn AWS Cloud Practitioner Certification**
-- ✅ **Land a Software Engineer role** at a product-based company
-- ✅ **Build an impressive personal portfolio**
-
-### **🛤️ Learning Path**
-
-</div>
 
 <br>
 
