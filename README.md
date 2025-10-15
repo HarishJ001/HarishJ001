@@ -8,7 +8,7 @@
 <h3 align="center">💻 Final Year CSE Student | Full-Stack Developer | Java Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=800&color=00ADB5&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Portfolio!;Final+Year+CSE+Student+%7C+7.59+CGPA;Full-Stack+Developer+%7C+Java+Expert;Building+Scalable+Solutions;One+Commit+at+a+Time+%F0%9F%9A%80;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=800&color=00ADB5&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Portfolio!;Final+Year+CSE+Student+%7C+Java+Expert;Full-Stack+Developer+%7C+Problem+Solver;Building+Scalable+Solutions;One+Commit+at+a+Time+%F0%9F%9A%80;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -44,7 +44,6 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-
 ### 🔥 **What I'm Up To:**
 - 🔭 **Currently Building:** Advanced full-stack applications with Spring Boot
 - 🌱 **Learning:** Cloud Technologies, Microservices, React.js
@@ -63,7 +62,12 @@
 
 ### **💻 Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+</p>
+
+### **🌐 Frontend Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </p>
 
 ### **🚀 Frameworks & Tools**
@@ -73,39 +77,31 @@
 
 ### **📊 Skill Proficiency**
 
+<div align="left">
+
+**☕ Programming Languages**  
+- Java ██████████ 90%  
+- JavaScript ███████░░░ 70%  
+
+**🌐 Frontend Development**  
+- HTML ████████░░ 85%  
+- CSS ████████░░ 80%  
+- Thymeleaf ███████░░░ 75%  
+
+**💾 Database**  
+- SQL/MySQL ████████░░ 80%  
+
+**🔧 Development Tools**  
+- Git/GitHub ████████░░ 85%  
+- VS Code ████████░░ 85%  
+- Spring Boot ███████░░░ 75%  
+
+**🎯 Area of Interest**  
+- Java Development ██████████ 95%  
+- Full-Stack Development ████████░░ 85%  
+- Web Development ████████░░ 80%  
+
 </div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="40"> **Featured Projects**
-
-<div align="center">
-
-### 🍔 **QuickBite - Food Ordering System**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HarishJ001&repo=QuickBite&theme=tokyonight&hide_border=true)](https://github.com/HarishJ001)
-
-**🎯 A comprehensive full-stack food ordering platform**
-- **Tech Stack:** Java, Spring Boot, Thymeleaf, MySQL
-- **Features:** User-friendly ordering system, Admin panel, Responsive design
-- **Methodology:** Agile Development
-
----
-
-### 🛍️ **The Elastic Web - E-commerce Prototype**
-**🎯 Modern e-commerce architecture demonstration**
-- **Tech Stack:** HTML, CSS
-- **Focus:** Responsive design, Scalable architecture
-- **Achievement:** Successfully completed during HostSpacio internship
-
----
-
-### 🏓 **Ping Pong Game**
-**🎯 Interactive browser-based game**
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Real-time physics, Smooth animations, Score tracking
 
 </div>
 
@@ -157,23 +153,6 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> **Education Journey**
-
-<div align="center">
-
-| **🎓 Degree** | **🏫 Institution** | **📅 Duration** | **⭐ Performance** |
-|:-------------|:------------------|:---------------|:------------------|
-| **B.E Computer Science & Engineering** | V.S.B Engineering College, Karur | 2022 - 2025 | **7.59 CGPA** 🔥 |
-| **Higher Secondary (HSC)** | Srinivasa Public School, Tiruppur | 2021 - 2022 | **65.8%** ✨ |
-| **Secondary (SSLC)** | Srinivasa Public School, Tiruppur | 2019 - 2020 | **65.4%** ⭐ |
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> **Professional Experience**
 
 <div align="center">
@@ -181,6 +160,12 @@
 ### 💼 **Web Development Intern | HostSpacio**
 **📍 Pollachi, Tamil Nadu | 📅 June 2024 - July 2024**
 
+**🎯 Key Achievements:**  
+- ✅ Completed comprehensive web development training program  
+- ✅ Gained hands-on experience in **leadership**, **creativity**, and **teamwork**  
+- ✅ Developed **"The Elastic Web"** - A conceptual e-commerce prototype  
+- ✅ **Technologies Used:** HTML, CSS, Responsive Design, Scalable Architecture  
+- ✅ **Focus Areas:** Modern web design principles and user experience  
 
 </div>
 
@@ -193,22 +178,6 @@
 
 <div align="center">
 
-B --> D[⚛️ Master React.js]
-B --> E[☁️ Learn AWS Cloud]
-B --> F[🔄 DevOps Practices]
-
-C --> G[📝 Build Portfolio]
-C --> H[🤝 Open Source]
-C --> I[📊 System Design]
-
-D --> J[💻 Full-Stack Expert]
-E --> J
-F --> J
-G --> K[🎯 Software Engineer Role]
-H --> K
-I --> K
-J --> K
-
 ### **🎯 2025 Objectives**
 - ✅ **Master React.js** and build 3+ full-stack applications
 - ✅ **Contribute to 5+ Open Source projects**
@@ -217,29 +186,7 @@ J --> K
 - ✅ **Land a Software Engineer role** at a product-based company
 - ✅ **Build an impressive personal portfolio**
 
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40"> **Fun Zone**
-
-<div align="center">
-
-### **🎯 Random Dev Quote**
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### **😂 Random Dev Meme**
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
-
-### **🐍 GitHub Contributions Snake**
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarishJ001/HarishJ001/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarishJ001/HarishJ001/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarishJ001/HarishJ001/output/github-contribution-grid-snake.svg">
-</picture>
+### **🛤️ Learning Path**
 
 </div>
 
