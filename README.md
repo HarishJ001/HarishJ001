@@ -74,32 +74,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=spring,mysql,git,github,vscode&theme=dark" />
 </p>
-
-### **📊 Skill Proficiency**
-
-<div align="left">
-
-**☕ Programming Languages**  
-- Java ██████████ 90%  
-- JavaScript ███████░░░ 70%  
-
-**🌐 Frontend Development**  
-- HTML ████████░░ 85%  
-- CSS ████████░░ 80%  
-- Thymeleaf ███████░░░ 75%  
-
-**💾 Database**  
-- SQL/MySQL ████████░░ 80%  
-
-**🔧 Development Tools**  
-- Git/GitHub ████████░░ 85%  
-- VS Code ████████░░ 85%  
-- Spring Boot ███████░░░ 75%  
-
-**🎯 Area of Interest**  
-- Java Development ██████████ 95%  
-- Full-Stack Development ████████░░ 85%  
-- Web Development ████████░░ 80%  
+ 
 
 </div>
 
